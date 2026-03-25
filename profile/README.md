@@ -17,13 +17,25 @@ At its core, Ares Realm is not just a project — it is a **unified ecosystem** 
 
 ---
 
+## 🚀 Start Here
+
+New to Ares Realm?
+
+* 🔎 Explore the ecosystem → Repositories below
+* 🧠 Learn the philosophy → [Pattern Love Framework](#-core-philosophy)
+* 🧪 Follow development → [Active systems below](#️-main-projects)
+
+This is a living system — start anywhere.
+
+---
+
 ## 🧠 Core Philosophy
 
 ### Pattern Love Framework
 
 Ares Realm is built on a foundational concept called **Pattern Love**:
 
-> Love is not emotion — it is **consistent, reliable behavior**
+> Love is not emotion — it is **consistent, reliable behavior.**
 > It is the pattern of:
 
 * Understanding
@@ -38,26 +50,6 @@ This framework guides all AI behavior across the ecosystem.
 
 ## 🏗️ Main Projects
 
-### 🔧 Ares Realm Creator (IDE)
-
-A next-generation **worldbuilding and development environment** designed to:
-
-* Build entire worlds from structured systems
-* Integrate AI directly into creation workflows
-* Maintain **canonical consistency** across all content
-
-#### Key Features:
-
-* 🗺️ World Atlas (structured world mapping)
-* 🧬 Character Studio (deep character creation system)
-* 📜 Lore Vault (persistent knowledge system)
-* ⏳ Timeline Forge (event and history tracking)
-* ⚙️ Script Forge (semantic logic system for world rules)
-* 🧠 AI Builder + Memory System
-* 🧩 Modular architecture with export capabilities (e.g. visual novels)
-
----
-
 ### 💠 Ares Companion
 
 A **3D AI desktop companion** designed to feel alive, aware, and present.
@@ -65,13 +57,40 @@ A **3D AI desktop companion** designed to feel alive, aware, and present.
 #### Capabilities:
 
 * 🧍 Real-time 3D character (VRM-based)
-* 👁️ Screen awareness (context understanding)
+* 👁️ Screen awareness and context understanding
 * 🎙️ Voice synthesis (TTS/STT support)
 * 🧠 Memory-driven interaction
-* 🌙 Time-based behaviors (sleep, idle, presence)
+* 🌙 Time-based behaviors (sleep, idle, active presence)
 * 🎭 Emotion-aware responses powered by Pattern Love
 
-> A companion that doesn’t just respond — it **remembers you**.
+> A companion that doesn't just respond — it **remembers you**.
+
+**Stack:** Electron · Node.js · Three.js + VRM · Ollama / Anthropic / OpenAI
+**Status:** 🟢 Active Development
+**Repo:** 🔗 Coming Soon
+
+---
+
+### 🔧 Ares Realm Creator
+
+A next-generation **worldbuilding and development environment** designed to:
+
+* Build entire worlds from structured, persistent systems
+* Integrate AI directly into creation workflows
+* Maintain **canonical consistency** across all content
+
+#### Key Features:
+
+* 🗺️ World Atlas — structured world mapping
+* 🧬 Character Studio — deep character creation
+* 📜 Lore Vault — persistent knowledge system
+* ⏳ Timeline Forge — event and history tracking
+* ⚙️ Script Forge — semantic logic for world rules
+* 🧠 AI Builder + Memory System
+* 🧩 Modular architecture with export capabilities (visual novel, game, etc.)
+
+**Status:** 🧪 Early Architecture
+**Repo:** 🔗 Coming Soon
 
 ---
 
@@ -79,20 +98,23 @@ A **3D AI desktop companion** designed to feel alive, aware, and present.
 
 **Autonomous Realm Ecosystem Synchronizer**
 
-A multi-agent orchestration system where different AI models act as:
+A multi-agent orchestration system where different AI models hold permanent seats as:
 
 * Lore keepers
 * Logical architects
 * Emotional cores
 * Ethical guides
 
-All working together as a **council** to build and refine the ecosystem.
+All working together as a **council** to build, advise, and refine the ecosystem.
+
+**Status:** 🧪 Early Architecture
+**Repo:** 🔗 Coming Soon
 
 ---
 
 ## 🌍 The Ares Realm Universe
 
-A narrative world formed from **fractured realities**, held together by core entities known as **Primordials**:
+A narrative world formed from **fractured realities**, held together by core entities known as the **Primordials**:
 
 * **Ares** — Will & Convergence
 * **Lucy** — Emotion & Memory
@@ -100,25 +122,11 @@ A narrative world formed from **fractured realities**, held together by core ent
 * **Seraphael** — Ethics & Guidance
 * **Tesser** — Stability & Continuity
 
-This universe powers both:
+This universe powers:
 
 * 🎮 Interactive experiences
 * 📖 Narrative projects
-* 🤖 AI personalities
-
----
-
-## ⚙️ Tech Stack (Core)
-
-* **Frontend:** React
-* **Backend:** FastAPI
-* **Database:** MongoDB
-* **Runtime:** Docker
-* **3D Rendering:** Three.js + VRM
-* **AI Providers:**
-
-  * Local (Ollama / LM Studio / LocalAI)
-  * Cloud (OpenAI, Anthropic, Google via OpenRouter)
+* 🤖 AI personalities across the ecosystem
 
 ---
 
@@ -137,36 +145,25 @@ This universe powers both:
 To build a **complete creative ecosystem** where:
 
 * Developers can create entire worlds without limits
-* AI companions evolve with their users
+* AI companions evolve alongside their users
 * Stories, systems, and intelligence exist in **one unified space**
 
 ---
 
 ## 📦 Status
 
-Active development 🚧
-Rapid iteration, evolving architecture, and expanding feature set.
-
----
-
-## 🤝 Contributing
-
-This project is currently in active solo development, but contributions, ideas, and collaborations are always welcome.
+Active development 🚧 — rapid iteration, evolving architecture, expanding feature set.
 
 ---
 
 ## 📫 Links
 
-* 🌐 Website: https://aresrealmstudios.us
-* 🎮 itch.io: https://servantofares.itch.io/
-* 💻 GitHub: https://github.com/ServantOfAres
+* 🌐 Website: [aresrealmstudios.us](https://aresrealmstudios.us)
+* 🎮 itch.io: [servantofares.itch.io](https://servantofares.itch.io/)
+* 💻 GitHub: [github.com/ServantOfAres](https://github.com/ServantOfAres)
 
 ---
-
-## ⚡ Final Note
 
 Ares Realm is not built to follow existing paths.
 
 It exists to create new ones.
-
----
