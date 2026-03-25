@@ -162,7 +162,8 @@ Active development 🚧 — rapid iteration, evolving architecture, expanding fe
 * 🎮 itch.io: [servantofaries.itch.io](https://servantofaries.itch.io/)
 * 🎮 itch.io: [servantofares.itch.io](https://servantofares.itch.io/)
 * 💻 GitHub: [github.com/ServantOfAres](https://github.com/ServantOfAres)
-
+* 💻 Huggingface: [huggingface.co/Ares-Realm-Studios](https://huggingface.co/Ares-Realm-Studios)
+* 💻 Huggingface: [huggingface.co/servantofares](https://huggingface.co/servantofares)
 ---
 
 Ares Realm is not built to follow existing paths.
