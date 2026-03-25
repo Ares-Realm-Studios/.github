@@ -159,6 +159,7 @@ Active development 🚧 — rapid iteration, evolving architecture, expanding fe
 ## 📫 Links
 
 * 🌐 Website: [aresrealmstudios.us](https://aresrealmstudios.us)
+* 🎮 itch.io: [servantofaries.itch.io](https://servantofaries.itch.io/)
 * 🎮 itch.io: [servantofares.itch.io](https://servantofares.itch.io/)
 * 💻 GitHub: [github.com/ServantOfAres](https://github.com/ServantOfAres)
 
